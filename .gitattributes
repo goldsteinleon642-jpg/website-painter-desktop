@@ -1,0 +1,7 @@
+# Generated on 2026-11-10
+# This file is used to override language statistics
+*.md linguist-documentation
+*.map linguist-generated
+src/*.astro linguist-detectable
+node_modules/* linguist-vendored
+*.html linguist-vendored
